@@ -1,0 +1,2 @@
+# Algorithmic-Species-Counterpoint
+Given a bass line, counterpoint, which provides a framework of “rules” from the classical period to compose a good melody. This is the main aim of the project. If we can implement this, we can move on to 2nd, 3rd, 4th, and 5th species counterpoint. Other possible topics and areas of exploration include making melodies from other genres (e.g. jazz, pop), writing parts for more instruments, making a drum beat, etc.
