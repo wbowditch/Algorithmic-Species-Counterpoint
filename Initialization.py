@@ -19,7 +19,7 @@ def goodBassLine(bassLine):
 	if bassLine[0] not in firstNote:
 		return False
 
-		
+
 	if len(bassLine)!= 8:
 		return False
 
@@ -27,7 +27,8 @@ def goodBassLine(bassLine):
 		if math.abs(bLine[index] - bLine[index+1]) >= 7 :
 			return False
 
-	if bassLine[7] != bassLine[0] or bassLine[7] != bassLine[0]
+	if bassLine[7] not in firstNote:
+		return False
 
 	return True
 
